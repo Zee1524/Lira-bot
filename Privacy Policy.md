@@ -5,7 +5,7 @@ Bot Name: Lira
 
 We respect your privacy. This policy outlines what data we collect and how we use it:
 
-#1. Data We Collect
+# 1. Data We Collect
 
 We may store the following:
 
