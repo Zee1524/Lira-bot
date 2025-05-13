@@ -1,1 +1,1 @@
-# Lira-bot
+# Privacy Policy
